@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Je travaille de mon domicile
-- 🌱 J'apprend avec Openclassrooms pour devenir développeur.
+- 🌱 J'apprend avec Openclassrooms pour devenir développeur python
 
 linkedin: https://www.linkedin.com/in/jean-baptiste-baillet/
 
