@@ -24,8 +24,8 @@ Je me lance dans le developpement web avec une spécialisation python / django, 
   
  <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=jbbaillet85&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbbaillet85&layout=compact&theme=radical" width="400" />
 </p>
 <!--
 **jbbaillet85/jbbaillet85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
