@@ -7,7 +7,9 @@
 <h2 align="center">A propos de moi 😇</h2>
 <p align="center">
 Timezone: Europe/Paris (CEST)
+ <br />
 Papa de 3 jeunes enfants, et aide-soignant pendant plus de 10 ans,
+  <br />
 Je me lance dans le developpement web avec une spécialisation python / django, grâce au parcours d'Openclassrooms.
 </p>
 <br />
